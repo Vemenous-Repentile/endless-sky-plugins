@@ -45,3 +45,4 @@ added Start Trader Freighter<br>
 added Start Trader (Hai) Aphid<br>
 added Start Explorer to Remnant<br>
 added Start Explorer to Automata<br>
+Proofed copy and made minor text edits - Vemenous Repentile
