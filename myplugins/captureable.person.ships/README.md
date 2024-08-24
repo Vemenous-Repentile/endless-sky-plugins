@@ -77,3 +77,5 @@ changed gamerules to prevent no spawning chance<br>
 <br>
 2023-09-08<br>
 initial release<br>
+2024-08-24
+Proofed copy and minor text edits
