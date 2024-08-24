@@ -20,9 +20,12 @@ Since it's often questioned, here is a guide to the bunrodea first contact missi
 <br>
 Changelog:<br>
 <br>
-2024-06-07<br>
-text correction (thx to Dagroth)<br>
+2024-08-24 <br>
+proofreading and minor text changes - VR <br>
 <br>
+2024-06-07<br>
+<br>
+text correction (thx to Dagroth)<br>
 2024-06-07<br>
 text corrections (thx to TheGiraffe3)<br>
 <br>
