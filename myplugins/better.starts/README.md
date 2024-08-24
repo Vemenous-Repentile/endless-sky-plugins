@@ -45,3 +45,5 @@ added Start Trader Freighter<br>
 added Start Trader (Hai) Aphid<br>
 added Start Explorer to Remnant<br>
 added Start Explorer to Automata<br>
+2024-08-24
+Copy proofed - minor text edits - Vemenous Repentile
