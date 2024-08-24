@@ -88,4 +88,5 @@ added a 2nd mission and a 2nd repeatable job<br>
 <br>
 2023-08-26<br>
 intial release<br>
-
+2024-08-24
+Copy proofed - minor text edites - Vemenous Repentile
