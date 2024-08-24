@@ -62,7 +62,7 @@ mission "get heliarch"
 	on offer
 		conversation
 			scene "scene/kimek_spaceport"
-			`As you enter <origin>'s spaceport, a suspiciously nervous Kimek approaches. "Hello Captain <last>. I would like to talk to you about a not entirely legal business. Can we perhaps talk further inside your ship?"`
+			`As you enter <origin>'s spaceport, a suspiciously nervous Kimek approaches. "Hello Captain <last>. About a not entirely legal business opportunity, to you I would like to speak. Inside your ship, can we perhaps talk further?"`
 			choice
 				`	Sure.`
 					goto yes
@@ -70,7 +70,7 @@ mission "get heliarch"
 					decline
 			label yes
 			scene "scene/kimek_sitting"
-			`Once in the ship, the Kimek begins to relax. "My client has already built a few shipyards and outfitters in the 'Far Home' system, some with unlicensed ships and equipment, and is now looking for paying customers. For a small fee of five million credits, you would be granted access to these difficult-to-access technologies. More precisely, it is about Heliarch and Lunarium technologies. The payment would be made now and you would also be provided with a Heliarch license. Are you interested?"`
+			`Once aboard your ship, the Kimek begins to relax. "Already built a few shipyards and outfitters in the 'Far Home' system my client has, unlicensed ships and equipment, some with. Now looking for paying customers, my client is. For a small fee of five million credits, granted access to these difficult-to-access technologies, you will be. Heliarch and Lunarium technologies, to be precise. Require payment immediately, I will, and provided with a Heliarch license also will you be.. Are you interested?"`
 			choice
 				`	That sounds great, I will pay.`
 					goto yesyes
@@ -78,7 +78,7 @@ mission "get heliarch"
 					decline
 			label yesyes
 			scene "scene/kimek_sitting"
-			`"Very good." the Kimek replies and pulls a golden Heliarch circlet out of his pocket. He puts it on your head and connects it to a small electronic box with a cable. After about 20 seconds the whole procedure is over and the Heliarch license is activated. "And now please transfer the credits." He holds out a pad with bank details, which you confirm. After everything has been arranged, the Kimek leaves your ship. You should head to <destination> to take a look at the new equipment.`
+			`"Very good." the Kimek replies and pulls a golden Heliarch circlet out of his pocket. He places it on your head and connects it to a small electronic box with a cable. After about 20 seconds the whole procedure is over and the Heliarch license is activated. "And now please transfer the credits." He holds out a pad with bank details, which you confirm. After everything has been arranged, the Kimek leaves your ship. You should head to <destination> to take a look at the new equipment available.`
 				accept
 	on accept
 		payment -5000000
@@ -86,7 +86,7 @@ mission "get heliarch"
 		set "license: Heliarch"
 	on complete
 		conversation
-			`You've reached <planet>. The local outfitters and shipyards should have all equipment the Coalition, the Heliarchs and the Lunarium can offer. `
+			`You've reached <planet>. The local outfitters and shipyards should have all the equipment the Coalition, the Heliarchs and the Lunarium can offer. `
 
 
 mission "get lunarium"
@@ -104,7 +104,7 @@ mission "get lunarium"
 	on offer
 		conversation
 			scene "scene/kimek_spaceport"
-			`As you enter <origin>'s spaceport, a suspiciously nervous Kimek approaches. "Hello Captain <last>. I would like to talk to you about a not entirely legal business. Can we perhaps talk further inside your ship?"`
+			`As you enter <origin>'s spaceport, a suspiciously nervous Kimek approaches. "Hello Captain <last>. To talk to you about a not entirely legal business opportunity, I would like. Talk further inside your ship, perhaps we can?"`
 			choice
 				`	Sure.`
 					goto yes
@@ -112,7 +112,7 @@ mission "get lunarium"
 					decline
 			label yes
 			scene "scene/kimek_sitting"
-			`Once in the ship, the Kimek begins to relax. "My client has already built a few shipyards and outfitters in the 'Far Home' system, some with unlicensed ships and equipment, and is now looking for paying customers. For a small fee of five million credits, you would be granted access to these difficult-to-access technologies. More precisely, it is about Heliarch and Lunarium technologies. The payment would be made now. Are you interested?"`
+			 "Already built a few shipyards and outfitters in the 'Far Home' system my client has, unlicensed ships and equipment, some with. Now looking for paying customers, my client is. For a small fee of five million credits, granted access to these difficult-to-access technologies, you will. Heliarch and Lunarium technologies, to be precise. Require payment immediately, I will, and provided with a Heliarch license also will you be. Are you interested?"`
 			choice
 				`	That sounds great, I will pay.`
 					goto yesyes
