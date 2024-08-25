@@ -371,7 +371,7 @@ person "Tranquility (C)"
 		disables heroic surveillance
 	phrase
 		word
-			"They tell ya never to hit a man with a closed fist, but it is on occasion hilarious."
+			"They tell ya never to hit a man with a closed fist, but it is, on occasion, hilarious."
 			"The human body can be drained of blood in 8.6 seconds given adequate vacuuming systems."
 			"I remember too much, and... some of it's made up, and... some of it can't be quantified, and... there's secrets."
 			"I reattached a girl's leg. Her whole leg. She named her hamster after me."
