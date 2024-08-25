@@ -35,6 +35,9 @@ In cap_persons.txt you find the following line under gamerules: "#	"person spawn
 <br>
 Changelog:<br>
 <br>
+2024-08-25<br>
+Proofreading and text edits (VR)<br>
+<br>
 2024-07-14<br>
 fixed tranquility weapon space error<br>
 removed fines from author government<br>
